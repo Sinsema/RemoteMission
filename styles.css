@@ -1,0 +1,40 @@
+body {
+    font-family: "Trebuchet MS", Verdana, Arial, sans-serif;
+    width:80vw;
+    min-height:100vh;
+    margin:auto;
+    background-color: #4f5fb9;
+    box-shadow: inset 0px 0px 10px 3px rgba(0,0,0,0.2);
+   }
+   .main-background {
+    background-color: #e9e9e9;
+    min-height:100vh;
+   }
+   .centered {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+   }
+   .italized{
+    font-style: italic;
+    max-width: 40vw;
+    text-align: justify;
+   }
+   .main-content{
+
+   }
+   button {
+    width:33.3%;
+    height: 5vw;
+    display: inline-block;
+   }
+   .error {
+    font-size:0.9em;
+    margin-top:4px;
+    margin-bottom:0px;
+    padding:8px;
+    box-sizing:border-box;
+    font-size:0.75em;
+    font-style:italic;
+    color:red;
+   }
