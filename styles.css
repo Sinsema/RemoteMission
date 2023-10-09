@@ -21,8 +21,8 @@ body {
     text-align: justify;
    }
 a {
-    text-decoration: none;
-    color: #102abe;
+    text-decoration: none !important;
+    color: #102abe !important;
 }
 a:hover {
     background-color: rgb(127, 229, 255);
