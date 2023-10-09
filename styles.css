@@ -29,3 +29,14 @@ a:hover {
     color: rgb(111, 0, 255);
     font-size: 110%;
 }
+.donate-button {
+    width: 7vw !important;
+    height: 7vh !important;
+    background-color: gold !important;
+    border-radius: 20%;
+}
+.wIPNotice {
+    font-style: italic;
+    font-size: xx-small;
+    color: gray;
+}
